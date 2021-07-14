@@ -1,5 +1,4 @@
 # tts-and-stt
-project
 import os
 import requests
 from tkinter import *
